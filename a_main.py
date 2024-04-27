@@ -1,8 +1,6 @@
 # Day 33 api dev
-import requests
-
-
 from tkinter import *
+import requests
 
 
 def get_quote():
